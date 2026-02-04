@@ -1,15 +1,15 @@
 ---
 title: "Mono 01:Hola Proyecto Monogram!!"
 description: "Primer post de bienvenida para Monogram"
-pubDate:"Feb 04 2026"
-heroImage"/blog-placeholder-about.jpg"
+pubDate: "Feb 04 2026"
+heroImage: "/blog-placeholder-about.jpg"
 ---
 
 ##El Origen
 Monogram nace de la necesidad de **cambiar la forma de aprendizaje**, de explorar nuevas herramientas y una forma de tener un registro o "bitácora" para el aprendizaje propio
 
 ##El Setup Inicial
-1. **OS:** Ubuntu 24.04 LTS. Linux ;)
+1. **OS:** Ubuntu 24.04 LTS. Linux
 2. **Herramientas:** Astro Nodejs Git/Github
 
 #¿Por que?
